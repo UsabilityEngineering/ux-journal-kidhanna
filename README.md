@@ -2,7 +2,7 @@
 
 I am currently a 5th year CSCI Major whos still very un-sure with his future.
 
-![alt text][me2.jpg]
+![alt text](me2.jpg)
 
 ## UX Team Project
 
