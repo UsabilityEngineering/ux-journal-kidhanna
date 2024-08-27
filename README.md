@@ -1,10 +1,10 @@
-# UX Portfolio
+# Cole Hanna's UX Portfolio
 
-About me...
+I am currently a 5th year CSCI Major whos still very un-sure with his future.
 
 ## UX Team Project
 
-Coming soon.
+Come back soon for progress.
 
 ## UX Journal
 
