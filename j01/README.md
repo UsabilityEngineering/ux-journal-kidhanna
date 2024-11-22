@@ -25,7 +25,7 @@ I want to adjust the thermostat and program the **weekday** schedule so the heat
    - **4 side buttons** for navigating menus with one labled on the screen as "MENU"  
    - **1 labeled "FAN."**  
    - **1 labeled "SYSTEM."**  
-   - **2 buttons** to increase/decrease the temperature.
+   - **2 buttons** labled on the side with "+" and "-" to increase/decrease the temperature.
   
 Looking at the main screen it shows all these main buttons. I'm looking to change the the systems schedule and selecting "MENU" looks like the best bet.
 
