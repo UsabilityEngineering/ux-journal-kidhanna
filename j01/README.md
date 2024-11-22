@@ -5,6 +5,8 @@
 ### Introduction
 Thermostats are an essential part of home comfort, but not all are designed with the average user experience. My apartment came with a PRO1 IAQ T755 Thermostat which is advertized itself as a "7 day Hot/2 Cold Programable Mountable Intuative Thermostat" under the PRO1 brand 700's series.
 
+![alt text](Pro1-T755-Thermostat.png)
+
 ## The Experience
 ### Goal
 My aim is to program the thermostat to follow a weekday and weekend schedule for heating at time where I and my roomates are most likley home.
