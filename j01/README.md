@@ -64,9 +64,9 @@ Key:
    - Set **WAKE** to **7:30 AM** at **70°F.**
    - Set **LEAVE** to **8:30 AM** at **70°F.**
 
-[![Here's a Video of the Process]()](https://youtube.com/shorts/lM2K6icLmAs?feature=share)
+[![Here's a video of me walking through the scheduling]()](https://youtube.com/shorts/lM2K6icLmAs?feature=share)
 
-So I set my "WAKE" time for 7:30 AM and "LEAVE" time for 8:30AM at 70 degrees. The system is also smart enough to not allow scheduling for the same time; "WAKE" and "LEAVE" being set to 10:00 AM and instead remains 15 minutes away. Changing between the times is also very slow, seen by my rapid clicking, since you have to press the button every time you want to cycle. After a section of the 3 days options is cycled through, it goes on to the next day's section. Next being "Sat" then "Sun" and then re-cycled back to "MonTueWedThuFri" back at its original setting state. If I wanted to go back at any point, I could press the "Prev" button to go back a section at any time. 
+So I set my "WAKE" time for 7:30 AM and "LEAVE" time for 8:30AM at 70 degrees. The system is also smart enough to not allow scheduling for the same time; "WAKE" and "LEAVE" being set to 10:00 AM and instead remains 15 minutes away. There wasn't any feedback through audio cue or error symbol that you can't go further which could frustrate the user if they wern't paying attention.  Changing between the times is also very slow, seen by my rapid clicking, since you have to press the button every time you want to cycle. After a section of the 3 days options is cycled through, it goes on to the next day's section. Next being "Sat" then "Sun" and then re-cycled back to "MonTueWedThuFri" back at its original setting state. If I wanted to go back at any point, I could press the "Prev" button to go back a section at any time. 
 
 4. **Saving and Testing**  
 
@@ -77,26 +77,26 @@ When morning came, the system started running correctly but when trying to adjus
 ## Conclusion
 
 During this process, I discovered a mix of intuitive features as well as some flaws.
+
 Strengths:
 - **Consistency**: Unused buttons were disabled, reducing user confusion
-- **Error Prevention**: The system blocked overlapping times.
+- **Error Prevention**: The system blocked overlapping times
 - **Discoverability**: The "MENU" options being clearly labled to the processes
-  
-Simple and intuitive design
-Website displayed manual if one was missing
+- **Learnability**: The system is pretty straight forward 
 
 #### **Weaknesses**  
 - **Efficiency**: Adjusting times manually was slow due to the lack of a rapid-cycling option when holding either the "+" or "-" button
 - **Visibility**: The screen’s text didn’t align with the side buttons, and the fast timeout made the display difficult to view  
 - **Feedback**: No visual indicators but slight audio indicators from clunky buttons confirming when a button was pressed, making it harder to know if my input was registered
-- **Mental Model**: The "Next" button moved between settings (time, temperature, day parts), but it wasn’t immediately obvious. The delay between the sections flashing took too long and time between each flash was annoying. A clearer layout, better labeling, and or better timing could improve users' understanding of the workflow. 
+- **Mental Model**: The "Next" button moved between settings (time, temperature, day parts), but it wasn’t immediately obvious. The delay between the sections flashing took too long and time between each flash was too slow. A clearer layout, better labeling, and or better timing could improve users' understanding of the workflow. 
 
 #### **Suggestions for Improvement**  
 1. Implement **rapid-cycling** for adjustments when holding down the "+" or "-" buttons.  
 2. Use **highlighted text or indicators** to align options better with side buttons.  
 3. Extend the screen’s timeout and increase backlight brightness for improved **visibility.**  
 4. Add **audio feedback** or visual indicators to show button presses are being registered.
-5. Using another on of PR01
 
+Despite its flaws, the thermostat’s basic scheduling functionality worked as intended, albeit with some frustration. I would have better liked one of their different models that provide more Affordances and better Discoverability in how buttons are designed and labled
 
-Despite its flaws, the thermostat’s basic scheduling functionality worked as intended, albeit with some frustration.    
+![SetSchedDrawn](PRO1-700.png)
+https://pro1iaq.com/products/thermostats
