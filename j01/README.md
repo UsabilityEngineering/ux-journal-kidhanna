@@ -33,6 +33,8 @@ So I set my "WAKE" time for 7:30 AM and "LEAVE" time for 8:30AM at 70 degrees. T
 
 I finally pressed "Done" to save my choices into the system.
 
+https://youtube.com/shorts/lM2K6icLmAs?feature=share
+
 ## Conclusion
 
 Durring this process, I discovered a mix of intuative features as well as some flaws.
