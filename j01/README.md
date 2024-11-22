@@ -82,7 +82,7 @@ When morning came, the system started running correctly but when trying to adjus
 
 During this process, I discovered a mix of intuitive features as well as some flaws.
 
-Strengths:
+#### **Strengths:**
 - **Consistency**: Unused buttons were disabled, reducing user confusion.
 - **Error Prevention**: The system blocked overlapping time scheduling.
 - **Discoverability**: The "MENU" options being clearly labeled to the processes.
