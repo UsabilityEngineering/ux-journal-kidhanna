@@ -23,8 +23,8 @@ I want to adjust the thermostat and program the **weekday** schedule so the heat
 1. **Understanding the Layout**  
    The thermostat features 8 buttons:  
    - **4 side buttons** for navigating menus with one labled on the screen as "MENU"  
-   - **1 labeled "FAN."**  
-   - **1 labeled "SYSTEM."**  
+   - **1 labeled "FAN"** for "On" and "Auto" settings  
+   - **1 labeled "SYSTEM."** for "Off", "Heat", and "Cool" settings
    - **2 buttons** labled on the side with "+" and "-" to increase/decrease the temperature.
   
    The main screen displayed options for navigation. I decided to press "MENU" because it seemed like the logical next step.
