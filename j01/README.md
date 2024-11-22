@@ -1,4 +1,3 @@
-[Back to UX Journal](../)
 # j01
 ## Turning up the Heat:  Scheduling Usability in Home Thermostats
 **By Cole Hanna, November 22nd, 2024**
