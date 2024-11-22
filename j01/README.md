@@ -8,7 +8,7 @@
 ### Introduction
 Thermostats are a small but essential part of home comfort. The device in my apartment, a **PRO1 IAQ T755 Thermostat**, advertises itself as a _"7-day Hot/2 Cold Programmable Mountable Intuitive Thermostat."_ However, as I found out, "intuitive" isn't always what you'd expect. 
 
-![alt text](Pro1-T755-Thermostat.png)
+![Pro1-T755-Thermostat](Pro1-T755-Thermostat.png)
 
 ---
 
@@ -28,7 +28,7 @@ I want to adjust the thermostat and program the **weekday** schedule so the heat
    - **1 labeled "SYSTEM."** for "Off", "Heat", and "Cool" settings
    - **2 buttons** labeled on the side with "+" and "-" to increase/decrease the temperature
   
-   The main screen displayed options for navigation. I decided to press "MENU" because it seemed like the logical next step. Each press of the buttons created an audible pressed functioning noise in a form of simple **feedback**.
+   The main screen displayed options for navigation. I decided to press "MENU" because it seemed like the logical next step. Each press of the buttons created an audible "chunk" noise in a form of simple **feedback**.
    
    The screen then displays options aligned to the side buttons:  
    - **"Tech Set"**  
@@ -36,7 +36,7 @@ I want to adjust the thermostat and program the **weekday** schedule so the heat
    - **"Set Sched"**  
    - **"Done"**
 
-![alt text](MenuPageDrawn.png)
+![MenuPageDrawn](MenuPageDrawn.png)
 
    The alignment of these options with their corresponding buttons was inconsistent, but the interface made sense because there were four options and four buttons. I pressed "Set Sched" to adjust the schedule.
 
@@ -65,7 +65,7 @@ Key:
    - Set **WAKE** to **7:30 AM** at **70°F.**
    - Set **LEAVE** to **8:30 AM** at **70°F.**
 
-[![Here's a video of me walking through the scheduling]()](https://youtube.com/shorts/lM2K6icLmAs?feature=share)
+[![Watch me setting up the scheduling example]()](https://youtube.com/shorts/lM2K6icLmAs?feature=share)
 
 So I set my "WAKE" time for 7:30 AM and "LEAVE" time for 8:30AM at 70 degrees. The system is also smart enough to not allow scheduling for the same time; "WAKE" and "LEAVE" being set to 10:00 AM and instead remains 15 minutes away. There wasn't any **feedback** through audio cue or error symbol that you can't go further which could frustrate the user if they weren't paying attention.  Changing between the times is also very slow, seen by my rapid clicking, since you have to press the button every time you want to cycle. After a section of the 3 days options is cycled through, it goes on to the next day's section. Next being "Sat" then "Sun" and then re-cycled back to "MonTueWedThuFri" back at its original setting state. If I wanted to go back at any point, I could press the "Prev" button to go back a section at any time. 
 
@@ -85,7 +85,7 @@ Strengths:
 - **Consistency**: Unused buttons were disabled, reducing user confusion
 - **Error Prevention**: The system blocked overlapping times
 - **Discoverability**: The "MENU" options being clearly labeled to the processes
-- **Learnability**: The system is pretty straight forward 
+- **Learnability**: The system is pretty straight forward with simplified phrases, simple button actions, and consise screen.
 
 #### **Weaknesses**  
 - **Efficiency**: Adjusting times manually was slow due to the lack of a rapid-cycling option when holding either the "+" or "-" button
@@ -99,9 +99,10 @@ Strengths:
 3. Extend the screen’s timeout and increase backlight brightness for improved **visibility**  
 4. Add **audio feedback** or visual indicators to show button presses are being registered
 
-Despite its flaws, the thermostat’s basic scheduling functionality worked as intended, albeit with some frustration. I would have prefered a different model from PRO1's 700 design series that provide more affordances and better discoverability in how buttons are designed and labeled. In all, a very great and simple design but lacked important **feedback** principles.
+Despite its flaws, the thermostat’s basic scheduling functionality worked as intended, albeit with some frustration. I would have preferred a different model from PRO1's 700 design series that provide more affordances and better discoverability in how buttons are designed and labeled. In all, a very great and simple design but lacked important basic **feedback** principles and usability designs.
 
-![SetSchedDrawn](PRO1-700.png)
+![PRO1Products](PRO1-700.png)
 https://pro1iaq.com/products/thermostats
+
 
 [Back to Top](#)
