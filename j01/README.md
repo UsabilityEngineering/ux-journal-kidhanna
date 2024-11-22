@@ -35,6 +35,8 @@ I want to adjust the thermostat and program the **weekday** schedule so the heat
    - **"Set Sched"**  
    - **"Done"**
 
+![alt text](MenuPageDrawn.png)
+
    The alignment of these options with their corresponding buttons was inconsistent, but the interface made sense because there were four options and four buttons. I pressed "Set Sched" to adjust the schedule.
 
 2. **Navigating the Menu**  
@@ -44,6 +46,15 @@ I want to adjust the thermostat and program the **weekday** schedule so the heat
    - **Times**: Adjusted in 15-minute intervals.  
    - **Temperature**: Adjustable in 1-degree increments for "Cool" or "Heat."  
    - **Day Parts**: "WAKE," "LEAVE," "RETURN," and "SLEEP."
+
+![SetSchedDrawn](SetSchedDrawn.png)
+
+Key:
+   - **Green** = Next button
+   - **Pink** = Prev button
+   - **Orange** = Done Button
+   - **Yellow** = Flashing time section durring editing
+   - **Purple** = Current Day Part
 
    The **flashing highlight** on the time field indicated where my input was focused—a clear example of **feedback.** Feedback, in this context, reassures users that their input is being acknowledged and helps guide them through the interaction. I used the buttons for "+" to increment and "-" decrement the time in lengths of 15 minutes, respectively. Going past the half day, changes the day section from "AM" to "PM" and vice versa. Selecting "NEXT" changes the blinking visibility to the temperature to adjust it 1 degree at a time. You can also adjust the temperature from "Cool" to "Heat" depending on preference. Pressing "Next" again changes the bottom display section to different parts of the day from:
 
@@ -63,7 +74,7 @@ So I set my "WAKE" time for 7:30 AM and "LEAVE" time for 8:30AM at 70 degrees. T
 
 I finally pressed "Done" to save my choices into the system.
 
-When morning came, the system started running correctly but when trying to adjust the settings using the "SYSTEM" button from "Heat" to "Off", it lacked feedback signifying that the system was turned off and didnt seem to turn off for at least 10 minutes afterwards.
+When morning came, the system started running correctly but when trying to adjust the settings using the "SYSTEM" button from "Heat" to "Off", it lacked **feedback** signifying that the system was in the action of turning off and didn't seem to turn off for at least 10 minutes afterwards.
 
 ## Conclusion
 
