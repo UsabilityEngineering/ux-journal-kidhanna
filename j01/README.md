@@ -83,22 +83,22 @@ When morning came, the system started running correctly but when trying to adjus
 During this process, I discovered a mix of intuitive features as well as some flaws.
 
 Strengths:
-- **Consistency**: Unused buttons were disabled, reducing user confusion
-- **Error Prevention**: The system blocked overlapping times
-- **Discoverability**: The "MENU" options being clearly labeled to the processes
+- **Consistency**: Unused buttons were disabled, reducing user confusion.
+- **Error Prevention**: The system blocked overlapping time scheduling.
+- **Discoverability**: The "MENU" options being clearly labeled to the processes.
 - **Learnability**: The system is pretty straight forward with simplified phrases, simple button actions, and consise screen.
 
 #### **Weaknesses**  
-- **Efficiency**: Adjusting times manually was slow due to the lack of a rapid-cycling option when holding either the "+" or "-" button
-- **Visibility**: The screen’s text didn’t align with the side buttons, and the fast timeout made the display difficult to view  
-- **Feedback**: No visual indicators but slight audio indicators from clunky buttons confirming when a button was pressed, making it harder to know if my input was registered
+- **Efficiency**: Adjusting times manually was slow due to the lack of a rapid-cycling option when holding either the "+" or "-" button.
+- **Visibility**: The screen’s text didn’t align with the side buttons, and the fast timeout made the display difficult to view.  
+- **Feedback**: No visual indicators but slight audio indicators from clunky buttons confirming when a button was pressed, making it harder to know if my input was registered.
 - **Mental Model**: The "Next" button moved between settings (time, temperature, day parts), but it wasn’t immediately obvious. The delay between the sections flashing took too long and time between each flash was too slow. A clearer layout, better labeling, and or better timing could improve users' understanding of the workflow. 
 
 #### **Suggestions for Improvement**  
-1. Implement **rapid-cycling** for adjustments when holding down the "+" or "-" buttons 
-2. Use **highlighted text or indicators** to align options better with side buttons
-3. Extend the screen’s timeout and increase backlight brightness for improved **visibility**  
-4. Add **audio feedback** or visual indicators to show button presses are being registered
+1. Implement **rapid-cycling** for adjustments when holding down the "+" or "-" buttons. 
+2. Use **highlighted text or indicators** to align options better with side buttons.
+3. Extend the screen’s timeout and increase backlight brightness for improved **visibility.**  
+4. Add **audio feedback** or visual indicators to show button presses are being registered.
 
 Despite its flaws, the thermostat’s basic scheduling functionality worked as intended, albeit with some frustration. I would have preferred a different model from PRO1's 700 design series that provide more affordances and better discoverability in how buttons are designed and labeled. In all, a very great and simple design but lacked important basic **feedback** principles and usability designs.
 
