@@ -61,12 +61,13 @@ Key:
 "WAKE" -> "LEAVE" -> "RETURN" -> "SLEEP" -> Repeat
 
 3. **Scheduling Example**  
-   - Set **WAKE** to **7:30 AM** at **70°F.**
+   - Set **WAKE** to **6:30 AM** at **70°F.**
    - Set **LEAVE** to **8:30 AM** at **70°F.**
 
+[![Watch me setting up the scheduling example]()](https://youtube.com/shorts/lM2K6icLmAs?feature=share)
 [![Watch me setting up the scheduling example](https://img.youtube.com/vi/lM2K6icLmAs/0.jpg)](https://youtube.com/shorts/lM2K6icLmAs?feature=share)
 
-So I set my "WAKE" time for 7:30 AM and "LEAVE" time for 8:30AM at 70 degrees. The system is also smart enough to not allow scheduling for the same time; "WAKE" and "LEAVE" being set to 10:00 AM and instead remains 15 minutes away. There wasn't any **feedback** through audio cue or error symbol that you can't go further which could frustrate the user if they weren't paying attention.  Changing between the times is also very slow, seen by my rapid clicking, since you have to press the button every time you want to cycle. After a section of the 3 days options is cycled through, it goes on to the next day's section. Next being "Sat" then "Sun" and then re-cycled back to "MonTueWedThuFri" back at its original setting state. If I wanted to go back at any point, I could press the "Prev" button to go back a section at any time. 
+So I set my "WAKE" time for 6:30 AM and "LEAVE" time for 8:30AM at 70 degrees. The system is also smart enough to not allow scheduling for the same time; "WAKE" and "LEAVE" being set to 10:00 AM and instead remains 15 minutes away. There wasn't any **feedback** through audio cue or error symbol that you can't go further which could frustrate the user if they weren't paying attention.  Changing between the times is also very slow, seen by my rapid clicking, since you have to press the button every time you want to cycle. After a section of the 3 days options is cycled through, it goes on to the next day's section. Next being "Sat" then "Sun" and then re-cycled back to "MonTueWedThuFri" back at its original setting state. If I wanted to go back at any point, I could press the "Prev" button to go back a section at any time. 
 
 4. **Saving and Testing**  
 
