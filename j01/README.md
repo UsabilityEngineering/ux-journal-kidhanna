@@ -34,13 +34,13 @@ I finally pressed "Done" to save my choices into the system.
 ## Conclusion
 
 Durring this process, I discovered a mix of intuative features as well as some flaws.
-Pros:
+Strenghts:
 Un-used buttons were un-usable
 Not being able to schedule a time at the same time
 Simple and intuative design
 Website displayed manual if one was missing
 
-Cons:
+Weaknesses:
 User timeout was a bit too fast
 Screen text doesnt line up with side buttons
 Viewability for when the screen times out is too dark
