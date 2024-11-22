@@ -24,16 +24,26 @@ Temperature:
 - Temperature in degrees
 
 The time section is flashing showing that its the portion thats been selected. Using "+" and "-" increments and decrements the time in lengths of 15 minutes, respectivly. Going past the half day, changes the day section from "AM" to "PM" and visa versa. Selecting "NEXT" changes the blinking to the temperature to adjust it 1 degree at a time. You can also adust the temperature from "Cool" to "Heat" depending on perference. Pressing "NEXT" again changes the bottom display section to different parts of the day from:
-- "WAKE"
-- "LEAVE"
-- "RETURN"
-- "SLEEP"
+- "WAKE" to "LEAVE" 
+- "RETURN" to "SLEEP" 
 
-After a section of one of the 3 days options is cycled through, it goes on to the next days section. Next being "Sat" then "Sun" and then re-cycled back to "MonTueWedThuFri" back at its origional setting state. If I wanted to go back at any point, I could press the "Prev" button to go back a section at any time. I finally pressed "Done" to probably save my choices into the system.
+So I set my "WAKE" time for 7:30 AM and "LEAVE" time for 8:30AM at 70 degrees. The system is also smart enough to not allow scheduling for the same time, say "WAKE" and "LEAVE" being set to 10:00 AM. It instead remains 15 minutes above. Changing between the times is also very slow since you have to press the button every time you want to cycle. After a section of the 3 days options is cycled through, it goes on to the next days section. Next being "Sat" then "Sun" and then re-cycled back to "MonTueWedThuFri" back at its origional setting state. If I wanted to go back at any point, I could press the "Prev" button to go back a section at any time. 
+
+I finally pressed "Done" to save my choices into the system.
 
 ## Conclusion
 
 Durring this process, I discovered a mix of intuative features as well as some flaws.
+Pros:
+Un-used buttons were un-usable
+Not being able to schedule a time at the same time
+Simple and intuative design
+Website displayed manual if one was missing
+
+Cons:
 User timeout was a bit too fast
 Screen text doesnt line up with side buttons
 Viewability for when the screen times out is too dark
+Holding a button wouldnt rapidly cycle options
+Nothing showing that a button was able to be pressed with lights or icons
+Without a manual can be a process
