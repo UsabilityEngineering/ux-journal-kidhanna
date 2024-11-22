@@ -56,7 +56,7 @@ Key:
    - **Yellow** = Flashing time section during editing
    - **Purple** = Current Day Part
 
-   The **flashing highlight** on the time field indicated where my input was focused—a clear example of **feedback.** **Feedback**, in this context, reassures users that their input is being acknowledged and helps guide them through the interaction. Using the buttons "+" to increment and "-" decrement the time in periods of 15 minutes. Going past the half day, changes the day section from "AM" to "PM" and vice versa. Selecting "NEXT" changes the blinking visibility to the temperature to adjust it 1 degree at a time. You can also adjust the temperature from "Cool" to "Heat" depending on preference. Pressing "Next" again changes the bottom display section to different parts of the day from:
+   The flashing highlight on the time field indicated where my input was focused—a clear example of **feedback.** **Feedback**, in this context, reassures users that their input is being acknowledged and helps guide them through the interaction. Using the buttons "+" to increment and "-" decrement the time in periods of 15 minutes. Going past the half day, changes the day section from "AM" to "PM" and vice versa. Selecting "NEXT" changes the blinking visibility to the temperature to adjust it 1 degree at a time. You can also adjust the temperature from "Cool" to "Heat" depending on preference. Pressing "Next" again changes the bottom display section to different parts of the day from:
 
 "WAKE" -> "LEAVE" -> "RETURN" -> "SLEEP" -> Repeat
 
