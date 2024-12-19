@@ -103,7 +103,7 @@ During this process, I discovered a mix of intuitive features as well as some fl
 Despite its flaws, the thermostat’s basic scheduling functionality worked as intended, albeit with some frustration. I would have preferred a different model from PRO1's 700 design series that provide more **affordances** and better discoverability in how buttons are designed and labeled. In all, a very great and simple design but lacked important basic **feedback** principles and usability designs.
 
 ![PRO1Products](PRO1-700.png)
-LINK: https://pro1iaq.com/products/thermostats
+LINK: [PRO1Products](https://pro1iaq.com/products/thermostats)
 
 
 [Back to Top](#)
