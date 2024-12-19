@@ -6,7 +6,7 @@ I am currently a 5th year CSCI Major whos still very un-sure with his future.
 
 ## UX Team Project
 
-Come back soon for progress.
+Completed the course and had an amazing time. I learned so much and feel better looking for a career since I feel now prepared from thise course.
 
 ## UX Journal
 
