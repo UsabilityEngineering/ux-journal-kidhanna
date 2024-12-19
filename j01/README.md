@@ -37,7 +37,7 @@ I want to adjust the thermostat and program the **weekday** schedule so the heat
 
 ![MenuPageDrawn](MenuPageDrawn.png)
 
-   The alignment of these options with their corresponding buttons was inconsistent, but the interface made sense because there were four options and four buttons. I pressed "Set Sched" to adjust the schedule.
+   The alignment of these options with their corresponding buttons was inconsistent, but the design the thermostats showed **affordance** where were it made sense that there were four options for each of the four seen buttons. I pressed "Set Sched" to adjust the schedule.
 
 2. **Navigating the Menu**  
    Selecting **"Set Sched"** starts the process. The interface shows:  
@@ -100,7 +100,7 @@ During this process, I discovered a mix of intuitive features as well as some fl
 3. Extend the screen’s timeout and increase backlight brightness for improved **visibility.**  
 4. Add **audio feedback** or visual indicators to show button presses are being registered.
 
-Despite its flaws, the thermostat’s basic scheduling functionality worked as intended, albeit with some frustration. I would have preferred a different model from PRO1's 700 design series that provide more affordances and better discoverability in how buttons are designed and labeled. In all, a very great and simple design but lacked important basic **feedback** principles and usability designs.
+Despite its flaws, the thermostat’s basic scheduling functionality worked as intended, albeit with some frustration. I would have preferred a different model from PRO1's 700 design series that provide more **affordances** and better discoverability in how buttons are designed and labeled. In all, a very great and simple design but lacked important basic **feedback** principles and usability designs.
 
 ![PRO1Products](PRO1-700.png)
 LINK: https://pro1iaq.com/products/thermostats
